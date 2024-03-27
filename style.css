@@ -10,10 +10,15 @@
   border: 2px solid black;
   border-radius:6px;
   cursor: pointer;
+  height:30px;
+  width: 100px;
+  margin-top: 10px;
 }
 .b:hover {
   background-color: rgba(0,0,0,1);
   color: white;
+  border: 2px solid white;
+
 }
 #password{
   background-color: white;
@@ -24,4 +29,5 @@
   background-color: white;
   color: black;
   cursor: pointer;
+  margin-bottom: 5px;
 }
